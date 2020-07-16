@@ -1,0 +1,8 @@
+
+add autoenable *
+add method 192.168.77.18 ssh
+add user 192.168.77.18 admin
+add password 192.168.77.18
+add user csr.cwes.local admin
+add password csr.cwes.local cisco
+add method sr.cwes.local ssh
